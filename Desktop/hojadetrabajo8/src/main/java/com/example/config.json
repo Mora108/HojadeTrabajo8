@@ -1,0 +1,20 @@
+{
+    "tiempo_simulacion": 480,
+    "recursos": {
+        "enfermeras": 3,
+        "doctores": 4,
+        "rayos_x": 2
+    },
+    "tiempos": {
+        "llegada_media": 5,
+        "triage_min": 8,
+        "triage_max": 12,
+        "doctor_min": 15,
+        "doctor_max": 25,
+        "rayos_min": 10,
+        "rayos_max": 20
+    },
+    "probabilidades": {
+        "necesita_rayos": 0.3
+    }
+} 
